@@ -1,0 +1,52 @@
+h1 {
+    font-size:190%;
+}
+
+p {
+    font-size:120%; 
+    vertical-align:sub;
+    
+}
+    
+#box {
+    text-align: center;
+
+    }
+#footer {
+    text-align:center;
+    font-family:Arial; 
+    background-color:rgb(192, 192, 248);
+    color: black(229, 235, 240);
+
+}
+body {
+    font-family: arial;
+    margin: 15%;
+    text-align: justify;
+
+}
+.link {
+    border: 2px solid rgb(148, 150, 245);   
+    text-decoration: none;
+    border-radius: 7px;
+    background-color: rgb(211, 220, 241) ;
+    color: rgb(23, 64, 175);
+
+}
+#box {
+    text-align: center;
+
+}
+img {
+    width: 60%;
+    height: 20%;
+    text-align: center;
+
+}
+.img2{
+    width: 338px;
+    height: 500px;
+}
+.img3 {
+    width: 250px;
+}
